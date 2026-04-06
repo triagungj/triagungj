@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Tri Agung Jiwandono**, a Software Engineer specializing in frontend development for scalable web and mobile applications.
+I'm **TJ**, a Software Engineer specializing in frontend development for scalable web and mobile applications.
 
 ## 🚀 About Me
 
@@ -15,14 +15,6 @@ I have hands-on experience delivering real-world products across healthcare, fin
 * **Backend:** Node.js, Laravel
 * **Database & Services:** Firebase, MySQL, MongoDB
 * **Tools:** Git, Docker, GitLab CI, Fastlane, Google Analytics
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=triagungj\&show_icons=true)
-
-## 🔥 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triagungj\&layout=compact)
 
 ## 📌 Featured Work
 
