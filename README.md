@@ -31,12 +31,12 @@ I have hands-on experience delivering real-world products across healthcare, fin
 ### 🎯 Fun & Side Projects
 
 * 🤖 [Sentiment Analysis Dashboard](https://github.com/triagungj/Sentiment-Analysis-Dashboard) ([Live](https://sentiment.triagungj.com))
+* 📅 KSPM Scheduler ([Mobile](https://github.com/triagungj/KSPM-Scheduler-Mobile) | [Admin](https://github.com/triagungj/KSPM-Scheduler-Admin) | [API](https://github.com/triagungj/KSPM-Scheduler-API))
 * 🎮 [Trivia Mobile App](https://github.com/triagungj/Trivia_Mobile_App)
 * 📍 [Tracking App OSM](https://github.com/triagungj/Tracking-App-OSM)
 * 🎬 [Movie App](https://github.com/triagungj/dicoding-movie_app)
 * 🍽️ [Restaurant App](https://github.com/triagungj/Restaurant-App)
 * 🛒 [Auction App](https://github.com/triagungj/Auction-App)
-* 📅 KSPM Scheduler ([Mobile](https://github.com/triagungj/KSPM-Scheduler-Mobile) | [Admin](https://github.com/triagungj/KSPM-Scheduler-Admin) | [API](https://github.com/triagungj/KSPM-Scheduler-API))
 
 ## 🌐 Portfolio
 
