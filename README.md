@@ -48,5 +48,3 @@ I have hands-on experience delivering real-world products across healthcare, fin
 * LinkedIn: [https://linkedin.com/in/triagungj](https://linkedin.com/in/triagungj)
 
 ---
-
-⭐️ From [https://github.com/triagungj](https://github.com/triagungj)
