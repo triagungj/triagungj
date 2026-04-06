@@ -18,15 +18,15 @@ I have hands-on experience delivering real-world products across healthcare, fin
 
 ## 📌 Featured Work
 
-### 🧑‍💼 Professional Projects
+### 🧑‍💼 Professional Projects Contribution
 
-* 📱 [Cenz Health](https://apps.apple.com/id/app/cenz-health/id6758828683)
-* 📱 [Fiberstreamku](https://apps.apple.com/id/app/fiberstreamku/id1552158982)
-* 📱 [Visitorku](https://apps.apple.com/id/app/visitorku/id6463710231)
-* 📱 [GMEDIA ERP](https://play.google.com/store/apps/details?id=com.gmedia.erp&hl=id)
-* 📱 [Fiberstream Agent](https://play.google.com/store/apps/details?id=com.gmedia.fiberstream_agent&hl=en)
-* 📱 [DifaBike](https://play.google.com/store/apps/details?id=com.difabike.customer)
-* 📱 [Joyful Space Booking](https://play.google.com/store/apps/details?id=com.varx.dbsbank)
+* 📱 [Cenz Health](https://apps.apple.com/id/app/cenz-health/id6758828683) – Implemented core mobile modules, API integrations, validation flows, and supported build & release process for Android and iOS
+* 📱 [Fiberstreamku](https://apps.apple.com/id/app/fiberstreamku/id1552158982) – Contributed to major app revamp including billing, payments, notifications, real-time updates, and in-app patching, and supported build & release process for Android and iOS.
+* 📱 [Visitorku](https://apps.apple.com/id/app/visitorku/id6463710231) – Built visitor registration and validation flows and improved stability for on-site check-in system
+* 📱 [GMEDIA ERP](https://play.google.com/store/apps/details?id=com.gmedia.erp&hl=id) – Delivered feature updates, bug fixes, and integration improvements to maintain system reliability
+* 📱 [Fiberstream Agent](https://play.google.com/store/apps/details?id=com.gmedia.fiberstream_agent&hl=en) – Enhanced field-agent app with feature improvements and operational bug fixes
+* 📱 [DifaBike](https://play.google.com/store/apps/details?id=com.difabike.customer) – Developed real-time order synchronization, reusable components, and supported production releases
+* 📱 [Joyful Space Booking](https://play.google.com/store/apps/details?id=com.varx.dbsbank) – Implemented booking workflows, reminders, notifications, and stable API integrations
 
 ### 🎯 Fun & Side Projects
 
@@ -48,3 +48,4 @@ I have hands-on experience delivering real-world products across healthcare, fin
 * LinkedIn: [https://linkedin.com/in/triagungj](https://linkedin.com/in/triagungj)
 
 ---
+
