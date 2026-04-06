@@ -30,7 +30,7 @@ I have hands-on experience delivering real-world products across healthcare, fin
 
 ### 🎯 Fun & Side Projects
 
-* 🤖 [Sentiment Analysis Dashboard](https://github.com/triagungj/Sentiment-Analysis-Dashboard)
+* 🤖 [Sentiment Analysis Dashboard](https://github.com/triagungj/Sentiment-Analysis-Dashboard) ([Live](https://sentiment.triagungj.com))
 * 🎮 [Trivia Mobile App](https://github.com/triagungj/Trivia_Mobile_App)
 * 📍 [Tracking App OSM](https://github.com/triagungj/Tracking-App-OSM)
 * 🎬 [Movie App](https://github.com/triagungj/dicoding-movie_app)
