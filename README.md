@@ -11,16 +11,32 @@ I have hands-on experience delivering real-world products across healthcare, fin
 ## 🛠️ Tech Stack
 
 * **Languages:** JavaScript, TypeScript, Dart, Python, PHP
-* **Frontend & Mobile:** React, Next.js, Flutter, React Native, Ionic
+* **Frontend & Mobile:** Flutter, React, Next.js, React Native, Ionic
 * **Backend:** Node.js, Laravel
 * **Database & Services:** Firebase, MySQL, MongoDB
 * **Tools:** Git, Docker, GitLab CI, Fastlane, Google Analytics
 
 ## 📌 Featured Work
 
-* 📱 Cross-platform mobile apps with Flutter (production-ready, multi-role systems)
-* 🌐 Scalable web apps using Next.js and React (PWA, real-time features)
-* 🤖 AI-assisted development workflows for faster and more consistent delivery
+### 🧑‍💼 Professional Projects
+
+* 📱 [Cenz Health](https://apps.apple.com/id/app/cenz-health/id6758828683)
+* 📱 [Fiberstreamku](https://apps.apple.com/id/app/fiberstreamku/id1552158982)
+* 📱 [Visitorku](https://apps.apple.com/id/app/visitorku/id6463710231)
+* 📱 [GMEDIA ERP](https://play.google.com/store/apps/details?id=com.gmedia.erp&hl=id)
+* 📱 [Fiberstream Agent](https://play.google.com/store/apps/details?id=com.gmedia.fiberstream_agent&hl=en)
+* 📱 [DifaBike](https://play.google.com/store/apps/details?id=com.difabike.customer)
+* 📱 [Joyful Space Booking](https://play.google.com/store/apps/details?id=com.varx.dbsbank)
+
+### 🎯 Fun & Side Projects
+
+* 🤖 [Sentiment Analysis Dashboard](https://github.com/triagungj/Sentiment-Analysis-Dashboard)
+* 🎮 [Trivia Mobile App](https://github.com/triagungj/Trivia_Mobile_App)
+* 📍 [Tracking App OSM](https://github.com/triagungj/Tracking-App-OSM)
+* 🎬 [Movie App](https://github.com/triagungj/dicoding-movie_app)
+* 🍽️ [Restaurant App](https://github.com/triagungj/Restaurant-App)
+* 🛒 [Auction App](https://github.com/triagungj/Auction-App)
+* 📅 KSPM Scheduler ([Mobile](https://github.com/triagungj/KSPM-Scheduler-Mobile) | [Admin](https://github.com/triagungj/KSPM-Scheduler-Admin) | [API](https://github.com/triagungj/KSPM-Scheduler-API))
 
 ## 🌐 Portfolio
 
